@@ -94,9 +94,11 @@
 }
 .container:hover ul li:nth-child(1) {
     transition-delay: .5s;
+    margin-bottom: 3px;
 } 
 .container:hover ul li:nth-child(2) {
     transition-delay: .8s;
+    margin-bottom: 3px;
 } 
 .container:hover ul li:nth-child(3) {
     transition-delay: 1.1s;
